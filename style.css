@@ -25,7 +25,8 @@ header .logo {
     margin-left: 10px;
     color: #E2B57A;
     font-size: 20px;
-    border: 2px solid #E2B57A
+    border: 2px solid #E2B57A;
+    cursor: pointer;
 }
 
 .cards img {
