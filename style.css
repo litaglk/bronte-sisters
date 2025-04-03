@@ -15,6 +15,7 @@ header .logo {
     font-size: 20px;
     color:#633309;
     background-color: #E2B57A;
+    cursor: pointer;
 }
 
 .primeiro-menu li {
@@ -33,7 +34,8 @@ header .logo {
     width: 200px; 
     height: 160px;
     padding: 3px;
-    border: 2px solid #E2B57A
+    border: 2px solid #E2B57A;
+    cursor: pointer;
 }
 
 .cards {
@@ -44,7 +46,8 @@ header .logo {
     width: 200px; 
     height: 160px;
     padding: 3px;
-    border: 2px solid #E2B57A
+    border: 2px solid #E2B57A;
+    cursor: pointer;
 }
 
 .carrossel {
@@ -55,7 +58,8 @@ header .logo {
     width: 200px; 
     height: 160px;
     padding: 3px;
-    border: 2px solid #E2B57A
+    border: 2px solid #E2B57A;
+    cursor: pointer;
 }
 
 .mini-carrossel {
@@ -77,6 +81,7 @@ header .logo {
   color: #633309;
   border: 2px solid #E2B57A;
   border-radius: 5px;
+    cursor: pointer;
 }
 
 .bio {
@@ -100,6 +105,7 @@ header .logo {
     color: #633309;
     border: 2px solid #E2B57A;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .rodape {
